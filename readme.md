@@ -3,4 +3,4 @@
 - [Pinterest](https://pinterest.com)
 - [Behance](https://www.behance.net)
 - [FontsInUse](https://fontsinuse.com)
-- [Muz.li](https://muz.li)
+- [Muzli](https://muz.li)
