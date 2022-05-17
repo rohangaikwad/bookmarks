@@ -4,3 +4,8 @@
 - [Behance](https://www.behance.net)
 - [FontsInUse](https://fontsinuse.com)
 - [Muzli](https://muz.li)
+
+## Finance
+- Fi
+- Cred
+- Jupiter
