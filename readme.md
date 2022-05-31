@@ -9,3 +9,7 @@
 - Fi
 - Cred
 - Jupiter
+
+## Icons
+- [TheNounProject](https://thenounproject.com)
+- [FontAwesome](https://fontawesome.com)
