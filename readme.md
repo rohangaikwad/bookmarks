@@ -13,3 +13,6 @@
 ## Icons
 - [TheNounProject](https://thenounproject.com)
 - [FontAwesome](https://fontawesome.com)
+
+## Gamedev
+- [Shaders Breakdown - Simon Trumpler](https://simonschreibt.de/)
