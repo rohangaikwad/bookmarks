@@ -15,4 +15,4 @@
 - [FontAwesome](https://fontawesome.com)
 
 ## Gamedev
-- [Shaders Breakdown - Simon Trumpler](https://simonschreibt.de/)
+- [Shaders Breakdown - Simon Trumpler](https://simonschreibt.de/) ([Gumroad](https://simonschreibt.gumroad.com/))
