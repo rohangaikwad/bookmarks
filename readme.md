@@ -16,3 +16,9 @@
 
 ## Gamedev
 - [Shaders Breakdown - Simon Trumpler](https://simonschreibt.de/) ([Gumroad](https://simonschreibt.gumroad.com/))
+
+## Prototyping/Productivity
+- [Canva](https://www.canva.com/) (Free)
+- [Coggle](https://coggle.it/) | Mind maps & flowcharts | (Free)
+- [Whimsical](https://whimsical.com/) | Mind maps & flowcharts | (Free)
+- [Witeboard](https://witeboard.com/) | (Free)
