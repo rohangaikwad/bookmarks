@@ -25,3 +25,7 @@
 
 ## CG
 - [ActionVFX](https://www.actionvfx.com/)
+
+## AI Content Generation
+- [Dall-E] (https://labs.openai.com/)
+- [MidJourney](https://www.midjourney.com/)
