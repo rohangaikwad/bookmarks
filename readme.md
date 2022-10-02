@@ -29,3 +29,4 @@
 ## AI Content Generation
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
+- [https://makeavideo.studio/](Make-A-Video)
