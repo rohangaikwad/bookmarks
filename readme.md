@@ -30,3 +30,4 @@
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
 - [Make-A-Video](https://makeavideo.studio/)
+- [Elai](https://elai.io/)
