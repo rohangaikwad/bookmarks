@@ -25,6 +25,7 @@
 
 ## CG
 - [ActionVFX](https://www.actionvfx.com/)
+- (Spline)[https://spline.design/] | Web 3D Modelling/Designing
 
 ## AI Content Generation
 - [Dall-E](https://labs.openai.com/)
