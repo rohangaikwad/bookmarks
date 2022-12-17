@@ -4,6 +4,7 @@
 - [Behance](https://www.behance.net)
 - [FontsInUse](https://fontsinuse.com)
 - [Muzli](https://muz.li)
+- [UpLabs](https://www.uplabs.com)
 
 ## Finance
 - Fi
