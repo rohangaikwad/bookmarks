@@ -33,3 +33,13 @@
 - [MidJourney](https://www.midjourney.com/)
 - [Make-A-Video](https://makeavideo.studio/)
 - [Elai](https://elai.io/)
+- [Astria](https://www.strmr.com/) | Tailor-made AI image generation
+- [Jasper.ai](https://app.jasper.ai/) | AI marketing text content generation
+- [RunwayML](https://runwayml.com/) | AI Video
+
+
+## Text <-> Speech
+- [Deepgram](https://deepgram.com/)
+
+## Photogrammetry
+- [Luma Labs](https://lumalabs.ai/)
