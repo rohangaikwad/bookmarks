@@ -41,6 +41,7 @@
 ## Text <-> Speech
 - [Deepgram](https://deepgram.com/)
 - [Descript](https://www.descript.com/)
+- [Altered.ai](https://www.altered.ai/)
 
 ## Photogrammetry
 - [Luma Labs](https://lumalabs.ai/)
