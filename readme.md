@@ -42,6 +42,7 @@
 - [Deepgram](https://deepgram.com/)
 - [Descript](https://www.descript.com/)
 - [Altered.ai](https://www.altered.ai/)
+- [Voice.ai](https://voice.ai/)
 
 ## Photogrammetry
 - [Luma Labs](https://lumalabs.ai/)
