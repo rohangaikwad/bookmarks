@@ -40,6 +40,7 @@
 
 ## Text <-> Speech
 - [Deepgram](https://deepgram.com/)
+- [Descript](https://www.descript.com/)
 
 ## Photogrammetry
 - [Luma Labs](https://lumalabs.ai/)
