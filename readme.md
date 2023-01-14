@@ -31,6 +31,8 @@
 ## AI Content Generation
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
+- [BlueWillow](https://www.bluewillow.ai/)
+- [Mage.space](https://www.mage.space/) | NSFW
 - [Make-A-Video](https://makeavideo.studio/)
 - [Elai](https://elai.io/)
 - [Astria](https://www.strmr.com/) | Tailor-made AI image generation
