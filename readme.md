@@ -32,6 +32,7 @@
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
 - [BlueWillow](https://www.bluewillow.ai/)
+- [Playground.ai](https://playgroundai.com/)
 - [Mage.space](https://www.mage.space/) | NSFW
 - [Make-A-Video](https://makeavideo.studio/)
 - [Elai](https://elai.io/)
