@@ -39,6 +39,7 @@
 - [Astria](https://www.strmr.com/) | Tailor-made AI image generation
 - [Jasper.ai](https://app.jasper.ai/) | AI marketing text content generation
 - [RunwayML](https://runwayml.com/) | AI Video
+- [QonderDynamics](https://wonderdynamics.com/) | In-browser AI characer replacement, compositing, animations
 
 
 ## Text <-> Speech
