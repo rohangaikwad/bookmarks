@@ -23,6 +23,7 @@
 - [Coggle](https://coggle.it/) | Mind maps & flowcharts | (Free)
 - [Whimsical](https://whimsical.com/) | Mind maps & flowcharts | (Free)
 - [Witeboard](https://witeboard.com/) | (Free)
+- [Shots.so](https://shots.so/) | (Screenshot/Mockup designer)
 
 ## CG
 - [ActionVFX](https://www.actionvfx.com/)
