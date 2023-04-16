@@ -42,6 +42,7 @@
 - [RunwayML](https://runwayml.com/) | AI Video
 - [WonderDynamics](https://wonderdynamics.com/) | In-browser AI characer replacement, compositing, animations
 - [Sczhou/codeformer](https://replicate.com/sczhou/codeformer) | AI face restoration algorithm for old photos
+- [Blockade Labs Skybox](https://skybox.blockadelabs.com/) | AI generated env maps
 
 
 ## Text <-> Speech
