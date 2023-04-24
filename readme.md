@@ -32,6 +32,7 @@
 ## AI Content Generation
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
+- [Leonardo.ai](https://app.leonardo.ai/)
 - [BlueWillow](https://www.bluewillow.ai/)
 - [Playground.ai](https://playgroundai.com/)
 - [Mage.space](https://www.mage.space/) | NSFW
