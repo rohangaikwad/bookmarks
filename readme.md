@@ -57,3 +57,7 @@
 
 ## Resources
 - [GameModels.ru](https://gamemodels.ru/)
+
+## Webdev Tools/Utils
+- [Icomoon](https://icomoon.io/app/)
+- [Dashed Border Generator](https://kovart.github.io/dashed-border-generator/)
