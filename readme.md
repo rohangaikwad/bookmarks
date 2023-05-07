@@ -28,6 +28,7 @@
 ## CG
 - [ActionVFX](https://www.actionvfx.com/)
 - [Spline](https://spline.design/) | Web 3D Modelling/Designing
+- [Materialize](https://boundingboxsoftware.com/materialize/index.php) | Create PBR materials from image
 
 ## AI Content Generation
 - [Dall-E](https://labs.openai.com/)
