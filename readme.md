@@ -62,3 +62,6 @@
 ## Webdev Tools/Utils
 - [Icomoon](https://icomoon.io/app/)
 - [Dashed Border Generator](https://kovart.github.io/dashed-border-generator/)
+
+## Software
+- [OnShape](https://www.onshape.com/en/) | CAD
