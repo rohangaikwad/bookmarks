@@ -65,3 +65,10 @@
 
 ## Software
 - [OnShape](https://www.onshape.com/en/) | CAD
+
+## WebGL, WebGPU
+- [Three.js](https://threejs.org/) | WebGL
+- [Orillusion](https://www.orillusion.com/en/) | WebGPU Engine
+- [Spline](https://spline.design/) | WebGL
+- [TinkerCAD](https://www.tinkercad.com/)
+- [SculptGL](https://stephaneginier.com/sculptgl/)
