@@ -46,6 +46,10 @@
 - [Sczhou/codeformer](https://replicate.com/sczhou/codeformer) | AI face restoration algorithm for old photos
 - [Blockade Labs Skybox](https://skybox.blockadelabs.com/) | AI generated env maps
 
+## AI Code Generation
+- [v0](https://v0.dev/) | UI + code generation
+- [CodeJet](https://www.codejet.ai/) | Figma to React code
+- [Phind](https://www.phind.com/) | AI search engine and pair programmer
 
 ## Text <-> Speech
 - [Deepgram](https://deepgram.com/)
