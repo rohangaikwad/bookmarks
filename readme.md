@@ -34,6 +34,7 @@
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
 - [Leonardo.ai](https://app.leonardo.ai/)
+- [Ideogram](https://ideogram.ai/) | Good at text 
 - [BlueWillow](https://www.bluewillow.ai/)
 - [Playground.ai](https://playgroundai.com/)
 - [Mage.space](https://www.mage.space/) | NSFW
@@ -45,7 +46,7 @@
 - [WonderDynamics](https://wonderdynamics.com/) | In-browser AI characer replacement, compositing, animations
 - [Sczhou/codeformer](https://replicate.com/sczhou/codeformer) | AI face restoration algorithm for old photos
 - [Blockade Labs Skybox](https://skybox.blockadelabs.com/) | AI generated env maps
-- (HeyGen)[https://labs.heygen.com/video-translate] | Video dubbing and lip sync
+- [HeyGen](https://labs.heygen.com/video-translate) | Video dubbing and lip sync
 
 ## AI Code Generation
 - [v0](https://v0.dev/) | UI + code generation
