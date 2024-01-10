@@ -38,6 +38,8 @@
 - [BlueWillow](https://www.bluewillow.ai/)
 - [Playground.ai](https://playgroundai.com/)
 - [Mage.space](https://www.mage.space/) | NSFW
+- [Suno AI](https://app.suno.ai/) | AI Audio Song
+- [Stylar.ai](https://www.stylar.ai/) | Image to Image
 - [Make-A-Video](https://makeavideo.studio/)
 - [Elai](https://elai.io/)
 - [Astria](https://www.strmr.com/) | Tailor-made AI image generation
