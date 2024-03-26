@@ -70,6 +70,8 @@
 ## Webdev Tools/Utils
 - [Icomoon](https://icomoon.io/app/)
 - [Dashed Border Generator](https://kovart.github.io/dashed-border-generator/)
+- [SVG Background Patterns](https://heropatterns.com/)
+- [SVG Placeholder Image](https://rohangaikwad.github.io/svg-backgrounds/)
 
 ## Software
 - [OnShape](https://www.onshape.com/en/) | CAD
