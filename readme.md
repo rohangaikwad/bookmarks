@@ -39,6 +39,7 @@
 - [Playground.ai](https://playgroundai.com/)
 - [Mage.space](https://www.mage.space/) | NSFW
 - [Suno AI](https://app.suno.ai/) | AI Audio Song
+- [Google Gemini MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx) | AI Audio, Lyrics
 - [Stylar.ai](https://www.stylar.ai/) | Image to Image
 - [Make-A-Video](https://makeavideo.studio/)
 - [Elai](https://elai.io/)
