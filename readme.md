@@ -31,6 +31,7 @@
 - [Materialize](https://boundingboxsoftware.com/materialize/index.php) | Create PBR materials from image
 
 ## AI Content Generation
+- [Deeemos/Rodin](https://hyperhuman.deemos.com/rodin) | Image/Text to 3D Model
 - [Dall-E](https://labs.openai.com/)
 - [MidJourney](https://www.midjourney.com/)
 - [Leonardo.ai](https://app.leonardo.ai/)
