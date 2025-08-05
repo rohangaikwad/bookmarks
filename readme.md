@@ -5,6 +5,9 @@
 - [FontsInUse](https://fontsinuse.com)
 - [Muzli](https://muz.li)
 - [UpLabs](https://www.uplabs.com)
+- [Same Energy](https://same.energy)
+- [Cosmos](https://www.cosmos.so)
+- [Arena](https://www.are.na)
 
 ## Finance
 - Fi
