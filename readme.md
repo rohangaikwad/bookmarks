@@ -54,6 +54,7 @@
 - [Sczhou/codeformer](https://replicate.com/sczhou/codeformer) | AI face restoration algorithm for old photos
 - [Blockade Labs Skybox](https://skybox.blockadelabs.com/) | AI generated env maps
 - [HeyGen](https://labs.heygen.com/video-translate) | Video dubbing and lip sync
+- [OpenModelDB](https://openmodeldb.info/) | AI Upscaling Models
 
 ## AI Code Generation
 - [v0](https://v0.dev/) | UI + code generation
