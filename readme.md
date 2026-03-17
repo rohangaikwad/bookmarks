@@ -82,6 +82,7 @@
 - [SVG Placeholder Image](https://rohangaikwad.github.io/svg-backgrounds/)
 - [Json -> CSV](https://data.page/json/csv)
 - [Python Dict -> JSON](https://toolset.marco79423.net/en/py-dict-to-json-converter)
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor)
 
 ## Software
 - [OnShape](https://www.onshape.com/en/) | CAD
