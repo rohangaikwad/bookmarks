@@ -93,6 +93,7 @@
 - [Spline](https://spline.design/) | WebGL
 - [TinkerCAD](https://www.tinkercad.com/)
 - [SculptGL](https://stephaneginier.com/sculptgl/)
+- [Shaders.com](https://shaders.com/)
 
 ## Database
 - [Tensor Explain](https://explain.tensor.ru/)
