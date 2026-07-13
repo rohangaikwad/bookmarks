@@ -74,6 +74,10 @@
 - [GameModels.ru](https://gamemodels.ru/)
 - [Crackstation](https://crackstation.net/)
 
+## Web Resources
+- [Icons8](https://icons8.com/icons)
+- [Magnific](https://www.magnific.com/)
+
 ## Webdev Tools/Utils
 - [ImgSrc](https://imgsrc.io/) | Open Graph image generator
 - [Icomoon](https://icomoon.io/app/)
