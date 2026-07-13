@@ -77,6 +77,7 @@
 ## Web Resources
 - [Icons8](https://icons8.com/icons)
 - [Magnific](https://www.magnific.com/)
+- [downpic](https://downpic.cc/)
 
 ## Webdev Tools/Utils
 - [ImgSrc](https://imgsrc.io/) | Open Graph image generator
@@ -87,6 +88,8 @@
 - [Json -> CSV](https://data.page/json/csv)
 - [Python Dict -> JSON](https://toolset.marco79423.net/en/py-dict-to-json-converter)
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor)
+- [Vectorizer](https://www.vectorizer.io/)
+- [SVG Optimizer](https://svgoptimizer.com/)
 
 ## Software
 - [OnShape](https://www.onshape.com/en/) | CAD
