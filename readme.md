@@ -55,6 +55,7 @@
 - [Blockade Labs Skybox](https://skybox.blockadelabs.com/) | AI generated env maps
 - [HeyGen](https://labs.heygen.com/video-translate) | Video dubbing and lip sync
 - [OpenModelDB](https://openmodeldb.info/) | AI Upscaling Models
+- [AI Models Voice](https://aimodels.org/ai-models/rvc-models-ai-voice/)
 
 ## AI Code Generation
 - [v0](https://v0.dev/) | UI + code generation
