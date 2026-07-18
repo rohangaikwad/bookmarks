@@ -56,6 +56,7 @@
 - [HeyGen](https://labs.heygen.com/video-translate) | Video dubbing and lip sync
 - [OpenModelDB](https://openmodeldb.info/) | AI Upscaling Models
 - [AI Models Voice](https://aimodels.org/ai-models/rvc-models-ai-voice/)
+- [LaLaL.AI](https://www.lalal.ai/) | Extract vocals and instrumentals from audio/video
 
 ## AI Code Generation
 - [v0](https://v0.dev/) | UI + code generation
