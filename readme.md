@@ -27,6 +27,7 @@
 - [Whimsical](https://whimsical.com/) | Mind maps & flowcharts | (Free)
 - [Witeboard](https://witeboard.com/) | (Free)
 - [Shots.so](https://shots.so/) | (Screenshot/Mockup designer)
+- [TLDiagram](tldiagram.com) | Architecture Diagrams
 
 ## CG
 - [ActionVFX](https://www.actionvfx.com/)
