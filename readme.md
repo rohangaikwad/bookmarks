@@ -93,6 +93,7 @@
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor)
 - [Vectorizer](https://www.vectorizer.io/)
 - [SVG Optimizer](https://svgoptimizer.com/)
+- [SVG Path Simplify](https://herrstrietzel.github.io/svg-path-simplify/)
 
 ## Software
 - [OnShape](https://www.onshape.com/en/) | CAD
