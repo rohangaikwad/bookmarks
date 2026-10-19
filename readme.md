@@ -33,6 +33,7 @@
 - [ActionVFX](https://www.actionvfx.com/)
 - [Spline](https://spline.design/) | Web 3D Modelling/Designing
 - [Materialize](https://boundingboxsoftware.com/materialize/index.php) | Create PBR materials from image
+- [ActionForge](actionforge.app) | Rigging, posing, animations
 
 ## AI Content Generation
 - [Deeemos/Rodin](https://hyperhuman.deemos.com/rodin) | Image/Text to 3D Model
