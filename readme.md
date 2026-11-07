@@ -73,6 +73,7 @@
 
 ## Photogrammetry
 - [Luma Labs](https://lumalabs.ai/)
+- [Pixal3D](https://ldyang694.github.io/projects/pixal3d/)
 
 ## Resources
 - [GameModels.ru](https://gamemodels.ru/)
